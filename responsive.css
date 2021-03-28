@@ -1,0 +1,31 @@
+@media (max-width: 768px){
+	img{
+		width: 100%;
+	}
+	.service-content{
+		display: block;
+	}
+	.service-item{
+		width: 100%;
+	}
+	.team-member{
+		width: 49%;
+	}
+	.contact-content{
+		width: 70%;
+	}
+}
+@media (max-width: 576px){
+	img{
+		width: 100%;
+	}
+	.team-content{
+		display: block;
+	}
+	.team-member{
+		width: 100%;
+	}
+	.contact-content{
+		width: 100%;
+	}
+}
